@@ -1,5 +1,5 @@
-![İstinye Üniversitesi](docs/assets/istinye-logo.png)
 # Env Secrets Management & Git Leak Prevention Pipeline
+![İstinye Üniversitesi](docs/assets/istinye-logo.png)
 
 ![GitHub](https://img.shields.io/badge/GitHub-Private-red?style=flat-square\&logo=github)
 ![Language](https://img.shields.io/badge/Language-Bash%20%7C%20Docker-blue?style=flat-square)
