@@ -2,7 +2,7 @@
   <a href="https://istinye.edu.tr">
     <img src="docs/assets/istinye-logo.png" alt="İstinye Üniversitesi" width="180"/>
   </a>
-# Env Secrets Management & Git Leak Prevention Pipeline
+ # Env Secrets Management & Git Leak Prevention Pipeline
 
 ![GitHub](https://img.shields.io/badge/GitHub-Private-red?style=flat-square\&logo=github)
 ![Language](https://img.shields.io/badge/Language-Bash%20%7C%20Docker-blue?style=flat-square)
