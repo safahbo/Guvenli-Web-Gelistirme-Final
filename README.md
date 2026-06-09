@@ -75,12 +75,14 @@ Proje kapsamında:
 ├── .env.example
 ├── .gitignore
 ├── docs/
+│   ├── assets/
+│   │   └── istinye-logo.png
 │   ├── modules/
 │   │   └── rotation-sop.md
 │   └── research/
 │       └── test-evidence.md
 └── scripts/
-└── pre-commit
+    └── pre-commit
 ```
 
 ## 🚀 Installation
