@@ -69,13 +69,13 @@ Proje kapsamında:
 ├── docker-compose.yml
 ├── .env.example
 ├── .gitignore
-├── docs
-│   ├── modules
+├── docs/
+│   ├── modules/
 │   │   └── rotation-sop.md
-│   ├── research
-│   └── references
-└── scripts
-    └── pre-commit
+│   └── research/
+│       └── test-evidence.md
+└── scripts/
+└── pre-commit
 ```
 
 ## 🚀 Installation
