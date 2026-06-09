@@ -1,0 +1,13 @@
+#!/bin/bash
+
+if command -v gitleaks &> /dev/null; then
+    gitleaks protect -v --staged
+    if [ $? -eq 1 ]; then
+        echo "Gitleaks sızıntı tespit etti. Commit iptal ediliyor."
+        exit 1
+    fi
+else
+    echo "Gitleaks kurulu değil. Güvenlik taraması atlanıyor."
+fi
+
+exit 0
